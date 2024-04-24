@@ -1,0 +1,25 @@
+div{
+    text-align: center;
+}
+.score{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 30%;
+}
+.game-title{
+    font-size: 50px;
+    margin: 0px auto 40px;
+}
+#score{
+    font-size: 30px;
+}
+.player-choice{
+    display: inline-block;
+    margin: 0 20px;
+    padding: 20px;
+    width: 10%;
+}
+.player-choice img{
+    width: 100%;
+}
